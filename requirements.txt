@@ -1,0 +1,10 @@
+python-dotenv
+pymongo
+aiohttp
+# Timezone data for zoneinfo (Windows and slim Docker images lack it)
+tzdata
+
+livekit-agents
+livekit-plugins-google
+livekit-plugins-deepgram
+livekit-plugins-cartesia
